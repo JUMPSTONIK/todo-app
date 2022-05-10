@@ -4,7 +4,7 @@
 This is a classic todo-app. This was my first react project and the one that taught some of the fundamentals to start working with react and all the base technologies like CSS, HTML and Javascript
 
 # Project deployed in Netlify
-### https://62776a96281d781509a56ecf--endearing-bonbon-f38b3f.netlify.app/
+### https://jumpstonik-todo.netlify.app/
 
 ## Available Scripts
 
